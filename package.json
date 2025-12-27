@@ -1,0 +1,17 @@
+{
+    "name": "taichung-city-website",
+    "version": "1.0.0",
+    "description": "台中市網站大改造專案",
+    "main": "index.html",
+    "scripts": {
+        "dev": "npx serve .",
+        "build": "echo 'Static site - no build needed'"
+    },
+    "keywords": [
+        "taichung",
+        "website",
+        "static"
+    ],
+    "author": "",
+    "license": "MIT"
+}

@@ -1,0 +1,33 @@
+# 作業系統檔案
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 編輯器設定
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 暫存檔案
+*.log
+*.tmp
+*.temp
+
+# Node modules (如果未來需要)
+node_modules/
+npm-debug.log*
+
+# 環境變數
+.env
+.env.local
+.env.*.local
+
+# 建置輸出
+dist/
+build/
+.cache/
+
+# Vercel
+.vercel
